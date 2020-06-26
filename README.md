@@ -2,4 +2,4 @@
 note: switch platforms ke android
 
 
-aspek rasio yang dipake 9:18/1080:2060
+aspek rasio yang dipake(di unity) 9:18/1080:2060
